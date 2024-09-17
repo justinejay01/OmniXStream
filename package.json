@@ -1,0 +1,23 @@
+{
+  "name": "omnixstream",
+  "version": "1.0.0",
+  "description": "Your Multi-Platform Video Streaming API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinejay01/OmniXStream.git"
+  },
+  "author": "Justine Jay Olivar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinejay01/OmniXStream/issues"
+  },
+  "homepage": "https://github.com/justinejay01/OmniXStream#readme",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.14.4",
+    "express": "^4.21.0"
+  }
+}
